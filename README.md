@@ -1,6 +1,6 @@
-# 🌿 AyuBalance — Dosha Balance App
+# 🌿 AyuBalance — Dosha Balance Webapp
 
-_A holistic wellness app inspired by Ayurveda, built with Flutter._
+_A holistic wellness webapp inspired by Ayurveda, built with Flutter._
 
 ---
 
