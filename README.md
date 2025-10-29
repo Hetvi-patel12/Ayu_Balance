@@ -1,2 +1,2 @@
 # Project was Push on master branch 
-_A holistic wellness app inspired by Ayurveda, built with Flutter._
+_So, Click on a main then select master there you get a project._
